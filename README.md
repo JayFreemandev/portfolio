@@ -1,4 +1,4 @@
-I'm a developer
+I'm a developer // test curran's format
 
  * [Resume](http://github.com/portfolio/Resume.pdf)
  * [LinkedIn](http://www.linkedin.com/)
