@@ -2,7 +2,7 @@ I'm a developer // test curran's format
 
  * [Resume](http://github.com/portfolio/Resume.pdf)
  * [LinkedIn](https://www.linkedin.com/in/jaeyun-jeong-3a32b1199/)
- * [GitHub](https://github.com/?tab=repositories)
+ * [GitHub](https://github.com/JayFreemandev)
  * [blog](https://jayfreemandev.wordpress.com/)
 
 ## 2021 Work
