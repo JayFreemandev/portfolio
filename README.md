@@ -6,7 +6,8 @@ I'm a developer // test curran's format
  * [blog](https://jayfreemandev.wordpress.com/)
 
 ## 2021 Work
-![project main](https://user-images.githubusercontent.com/72185011/121657925-d54a5880-cadb-11eb-955e-def1f49e996c.jpg)
+![project main](https://user-images.githubusercontent.com/72185011/121675414-54e12300-caee-11eb-9966-32cdba8b4320.jpg)
+
  * (https://www.youtube.com/watch?v=1fgk7Yfc53A)
  * [d3-area-label](https://github.com/curran/d3-area-label)
  * [d3-component](https://github.com/curran/d3-component) A lightweight component abstraction for D3.js.
