@@ -7,9 +7,5 @@ I'm a developer // test curran's format
 
 ## 2021 Work
 ![project main](https://user-images.githubusercontent.com/72185011/121675414-54e12300-caee-11eb-9966-32cdba8b4320.jpg)
-
- * (https://www.youtube.com/watch?v=1fgk7Yfc53A)
- * [d3-area-label](https://github.com/curran/d3-area-label)
- * [d3-component](https://github.com/curran/d3-component) A lightweight component abstraction for D3.js.
- * [Campaign Finance Institute data exploration and download tool](https://github.com/cfinst/cfinst.github.io/) An interactive visualization of the Campaign Finance Institute database of campaign finance law, spanning all US States and every other year since 1996.
- * [josquin-ribbon](https://github.com/sul-cidr/josquin-ribbon) A consulting project done for a music research group at Stanford University.
+ * [OfficeCafe](https://github.com/JayFreemandev/OfficeCafe)
+ First project using SPRING MVC and JSP, motivated by blind(https://www.teamblind.com/kr/), which is n anonymous forum and community for verified employees to discuss issues. There are basic concepts of CRUD such as board, reply and security login and paging(mybatis)
