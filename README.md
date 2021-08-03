@@ -1,6 +1,5 @@
 I'm a developer // test curran's format
 
- * [Resume](https://www.notion.so/4bd77bdb726845e9925061ed58640426)
  * [LinkedIn](https://www.linkedin.com/in/jaeyun-jeong-3a32b1199/)
  * [GitHub](https://github.com/JayFreemandev)
  * [blog](https://jayfreemandev.wordpress.com/)
