@@ -1,8 +1,6 @@
-I'm a developer // test curran's format
-
- * [LinkedIn](https://www.linkedin.com/in/jaeyun-jeong-3a32b1199/)
- * [GitHub](https://github.com/JayFreemandev)
+I'm a developer 
  * [blog](https://jayfreemandev.wordpress.com/)
+ * [Resume PDF](https://github.com/JayFreemandev/portfolio/files/7310639/default.pdf)
 
 ## 2021 Work
  * [Spring hibernate certificate from Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
