@@ -1,6 +1,5 @@
 I'm a developer 
  * [blog](https://jayfreemandev.wordpress.com/)
- * [Resume PDF](https://github.com/JayFreemandev/portfolio/files/7310639/default.pdf)
 
 ## 2021 Work
  * [Spring hibernate certificate from Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
