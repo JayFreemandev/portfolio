@@ -1,5 +1,5 @@
 ### Work experience
-- Crypto Exchange (2022-01~2023-06) 1.6 years
+- 가상화폐 거래소 (2022-01~2023-06) 1.6 years
 
 ### Projects
 - C# 레거시 프로젝트를 Java 기반의 마이크로서비스 아키텍처(MSA)로 이관
