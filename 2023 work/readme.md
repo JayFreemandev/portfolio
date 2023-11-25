@@ -6,7 +6,7 @@
 ### Projects
 # ![whalehunter](https://github.com/JayFreemandev/portfolio/assets/72185011/bbb69d8b-84e5-4632-b72d-208cc631270b)
  * [whalehunter](https://github.com/JayFreemandev/Whale-Hunter)
-MSA 환경에서 대규모 트래픽으로 인해 발생하는 문제들을 해결하는 카오스 엔지니어링 프로젝트
+MSA 환경에서 대규모 트래픽으로 인해 발생하는 문제들을 해결하는 카오스 엔지니어링 프로젝트  
 Spring, JPA, Kafka, Zipkin, Grafana, Prometheus, ECS(Fargate) 
 <hr>
 
