@@ -27,6 +27,10 @@
 - 소프트 스킬
 - 심플 소프트웨어
 - 소프트웨어 장인
+- AWS로 배우는 스프링 부트
+- 스프링 5 레시피
+- 스프링 인 액션
+- 스프링(최범균)
 
 ### Lectures
 [Spring hibernate certificate from Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
