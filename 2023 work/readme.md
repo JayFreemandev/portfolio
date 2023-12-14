@@ -7,8 +7,11 @@
 # ![whalehunter](https://github.com/JayFreemandev/portfolio/assets/72185011/bbb69d8b-84e5-4632-b72d-208cc631270b)
  * [whalehunter](https://github.com/JayFreemandev/Whale-Hunter)  
 MSA 환경에서 대규모 트래픽으로 인해 발생하는 문제들을 해결하는 카오스 엔지니어링 프로젝트  
-웹소켓을 이용하여 실시간 가격 계산 후 카프카를 통한 EDD로 텔레그램 매수/매도 비동기 알림  
-가격 변동은 카프카 스트림즈를 이용하여 차트로 디스플레이
+- 웹소켓을 이용하여 실시간 가격 계산 후 카프카를 통한 EDD로 텔레그램 매수/매도 비동기 알림  
+- 가격 변동은 카프카 스트림즈를 이용하여 차트로 디스플레이
+- 부하 테스트를 통한 최대 tps 측정 및 개선
+- 분산 추적을 위한 zipkin 적용
+- 메트릭 수집, 장애 방지 모니터링을 위한 모니터링 적용
 
 Spring, JPA, Kafka, Zipkin, Grafana, Prometheus, ECS(Fargate) 
 <hr>
