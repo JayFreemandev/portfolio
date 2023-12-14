@@ -5,8 +5,11 @@
 
 ### Projects
 # ![whalehunter](https://github.com/JayFreemandev/portfolio/assets/72185011/bbb69d8b-84e5-4632-b72d-208cc631270b)
- * [whalehunter](https://github.com/JayFreemandev/Whale-Hunter)
+ * [whalehunter](https://github.com/JayFreemandev/Whale-Hunter)  
 MSA 환경에서 대규모 트래픽으로 인해 발생하는 문제들을 해결하는 카오스 엔지니어링 프로젝트  
+웹소켓을 이용하여 실시간 가격 계산 후 카프카를 통한 EDD로 텔레그램 매수/매도 비동기 알림  
+가격 변동은 카프카 스트림즈를 이용하여 차트로 디스플레이
+
 Spring, JPA, Kafka, Zipkin, Grafana, Prometheus, ECS(Fargate) 
 <hr>
 
