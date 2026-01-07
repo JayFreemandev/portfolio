@@ -5,15 +5,15 @@
 <hr>
 
 ## Projects
-### Solana
-- Staking / Sniping / MEV
+### Solana (2024-05~2025-12)
+- Internal DEX Trading Infra
 - Validator 운영 & 인프라 관리
+- MEV
 
-### Monad
-- Sniping
+### Monad (2025-10~2025-12)
+- DEX Sniping Bot
 
-### Spitfire Trading Engine
-- 시스템 트레이딩
+### Systematic Trading (2025-10~now)
 
 <hr>
 
