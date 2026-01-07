@@ -6,8 +6,7 @@
 <hr>
 
 ## Projects
-### Spitfire Trading Engine
-- 시스템 트레이딩
+### Systematic Trading (2025-10~now)
 
 <hr>
 
