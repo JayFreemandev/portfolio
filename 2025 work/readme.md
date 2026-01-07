@@ -1,10 +1,10 @@
 ## Projects
 ### Solana
-- MM / Sniping / MEV
+- Staking / Sniping / MEV
 - Validator 운영 & 인프라 관리
 
 ### Monad
-- MM / Sniping
+- Sniping
 
 ### Spitfire Trading Engine
 - 시스템 트레이딩
@@ -19,4 +19,5 @@
 - 
 
 ### Conference
--
+- Seoulana Hackathon 2025 참여
+- TOKEN 2049 Singapore 참여
