@@ -23,4 +23,6 @@
 - 한입 크기로 잘라 먹는 리액트(React.js)
 
 ### Conference
--
+- AWS Student Community Day 2024
+  - code catalyst ci/cd용 테스트 자동화
+  - full serverless startup
