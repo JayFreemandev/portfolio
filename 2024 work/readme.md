@@ -4,6 +4,12 @@
 
 <hr>
 
+## Projects
+### Solana (2024-05~now)
+- Internal DEX Trading Infra
+- Validator 운영 & 인프라 관리
+- MEV
+
 ### Books
 - 중학 수학
   - 수학1
